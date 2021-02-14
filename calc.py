@@ -14,4 +14,4 @@ if c in ('+', '-', '*', '/'):
         else:
             print ("delenie na null")
 else:
-    print ("nepravilniy znak")
+    print ("nepravilniy znak!")
